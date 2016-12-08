@@ -1,0 +1,23 @@
+{
+  "name": "coala-dot-loader",
+  "version": "0.0.1",
+  "description": "coala.js & dot.js webpack loader",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cheft/coala-dot-loader.git"
+  },
+  "keywords": [
+    "coala",
+    "dot"
+  ],
+  "author": "cheft",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cheft/coala-dot-loader/issues"
+  },
+  "homepage": "https://github.com/cheft/coala-dot-loader#readme"
+}

@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/cheft/coala-dot-loader/issues"
   },
-  "homepage": "https://github.com/cheft/coala-dot-loader#readme"
+  "homepage": "https://github.com/cheft/coala-dot-loader#readme",
+  "dependencies": {
+    "dot": "^1.1.1"
+  }
 }

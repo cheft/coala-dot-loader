@@ -6,7 +6,7 @@
 
 ``` javascript
 var template = require("coala-dot!./file.html");
-// => returns file.dot compiled as template function
+// => returns file.html compiled as template function
 ```
 
 ### Recommended config
@@ -20,4 +20,3 @@ module.exports = {
   }
 };
 ```
-

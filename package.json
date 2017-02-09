@@ -1,6 +1,6 @@
 {
   "name": "coala-dot-loader",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "coala.js & dot.js webpack loader",
   "main": "index.js",
   "scripts": {
@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/cheft/coala-dot-loader#readme",
   "dependencies": {
-    "dot": "^1.1.1"
+    "dot": "^1.1.1",
+    "loader-utils": "^0.2.16"
   }
 }
